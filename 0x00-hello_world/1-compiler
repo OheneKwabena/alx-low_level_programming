@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -c $CILE
+gcc -c $CFiLE
